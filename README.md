@@ -27,20 +27,6 @@ This project aims to deliver a modern and responsive web application for e-comme
 ![user Login](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/FrontEnd/Asset/Login.png?raw=true)
 
 
-### Product Page<br>
-![All Products](https://raw.githubusercontent.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/main/FrontEnd/Asset/Product.png)
-
-### User Dashboard Page<br>
-![User Dashboard](https://raw.githubusercontent.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/main/FrontEnd/Asset/UserDashboard.png)
-
-### Admin Dashboard<br>
-![Admin Dashboard-CRUD Operation](https://raw.githubusercontent.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/main/FrontEnd/Asset/AdminDashboard.png)
-
-### Cart Page<br>
-![Add to cart](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/FrontEnd/Asset/Cart.png)
-
-### Filter Page<br>
-![Filter -Search functionality](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/FrontEnd/Asset/filter.png)
 
 <br>
 
@@ -98,10 +84,6 @@ Amongst many things that an online site requires the most important is a databas
 - There should not be any inconsistency in the data. 
 - There should not be any loss of data. 
 
-### 3.  Relational Database Schema - e commerce 
-![Relational Schema_Diagram](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/Relational_Schema-Screenshot.jpg)
-For more clear view, click here
-[Relational Schema Pdf](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/Relational%20Database%20Schema2.pdf)
 
 ### 4. Entities and their Attributes
 
@@ -131,12 +113,6 @@ For more clear view, click here
 |Product<br>Orderltem| Includes|OneToMany|Partial<br>Total|
 |Order<br>Orderltem| Includes|OneToOne|Partial<br>Total|
 |Payment<br>Order| For|OneToOne|Total<br>Total|
-
-
-### 6. ER-Diagram<br>
-![ER-Diagram img](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ER-diagram.jpg)
-for more clear view, click here
-[ER Diagram pdf](https://github.com/Saurabh-pec/Ecommerce-Management-DBMS_Project-/blob/main/ECommerce.pdf)
 
 ### 7. QUERIES ON THE ABOVE RELATIONAL SCHEMA
  **1.** Stored procedure for the details of the customer.<br>
@@ -182,13 +158,7 @@ for more clear view, click here
 
 <br><br> 
 
-**To get implemented part of above queries  and other details, you can mail me: [abhinav221sk@gmail.com](mailto:abhinav221sk@gmail.com).<br> For any personalized and expedited support, feel free to ping me on [my telegram](https://t.me/qxvjm). (please do mention subject as this repo name). thanks**<br>
 
-#### Contributors
-[SAURABH KISHOR](https://github.com/Saurabh-pec) 
-
-##### Want to support my coding journey? Buy me a coffee and keep the code flowing! [Buy me a Coffee!](https://www.buymeacoffee.com/saurabhkishor ).
-Thanks and I highly appreciate your support.
 
 
 
